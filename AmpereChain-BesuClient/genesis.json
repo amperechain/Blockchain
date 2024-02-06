@@ -40,6 +40,19 @@
           ]
         },
         {
+          "block": 3279915,
+          "validators": [
+            "0x19ba94e06fc9eaaf4af409006544daa5280cf24d",
+            "0x64f94d6b58652735150fbf7f4659dc44c9f02d9b",
+            "0x92b4635e314d6d9cd2790bb7415cd4badf8c4ca0",
+            "0x972db29bd572854d82cc9d9b58fa999630541b1f",
+            "0x5429e06b2dc8de318b413ca3e88ccd0c592e4666",
+            "0x6124dcbeb9890db326b45a6cbe59a5a6a4ab5f5f",
+            "0xcbeb70eb862a3233c5e71ffc6c03963c6850ae4e",
+            "0xfab77f34ecc94041ffabad4cf37fdcebcca1c137"
+          ]
+        },
+        {
           "block": 200000000,
           "blockreward": "0x0"
         }
